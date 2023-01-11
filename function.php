@@ -31,7 +31,7 @@ if(!$gambar)
 
 function upload()
 {
-    return false;`
+    return false;
 }
 
 ?>

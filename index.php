@@ -57,7 +57,7 @@
                         <form class="d-flex p-3" role="search">
                             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                             <button class="btn btn-outline-succes" type="submit"><i class="bi bi-search"></i></button>
-                        <a href="#" class="btn-get-started">Available for Hire</a>
+                        <a href="add.php" class="btn-get-started">Add Wallpaper</a>
                         </form>
                     </div>
                 </div>
@@ -221,6 +221,16 @@
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-15.jpg" title="Gallery 15" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
                             <a href="download.php?file=assets/img/gallery/gallery-15.jpg">Download HERE!</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="gallery-item h-100">
+                        <img src="assets/img/gallery/gallery-16.jpg" class="img-fluid" alt="">
+                        <div class="gallery-links d-flex align-items-center justify-content-center">
+                            <a href="assets/img/gallery/gallery-16.jpg" title="Gallery 16" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
+                            <a href="download.php?file=assets/img/gallery/gallery-16.jpg">Download HERE!</a>
                         </div>
                     </div>
                 </div>
