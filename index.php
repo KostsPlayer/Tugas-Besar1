@@ -34,13 +34,13 @@
             </a>
             <div class="header-social-links">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="instagram" class="twitter"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                <a href="https://web.facebook.com/profile.php?id=100085917747635" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.instagram.com/cristiano" class="twitter"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.linkedin.com/showcase/skills-machine-learning/" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
         </div>
     </header>
-
+    
     <!-- End Header -->
 
     <nav id="navbar" class="navbar"></nav>
@@ -79,7 +79,7 @@
                         <img src="assets/img/gallery/gallery-1.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-1.jpg" title="Gallery 1" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-1.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-1.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                         <img src="assets/img/gallery/gallery-2.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-2.jpg" title="Gallery 2" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-2.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-2.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                         <img src="assets/img/gallery/gallery-3.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-3.jpg" title="Gallery 3" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-3.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-3.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                         <img src="assets/img/gallery/gallery-4.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-4.jpg" title="Gallery 4" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-4.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-4.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                         <img src="assets/img/gallery/gallery-5.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-5.jpg" title="Gallery 5" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-5.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-5.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
                         <img src="assets/img/gallery/gallery-6.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-6.jpg" title="Gallery 6" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-6.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-6.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                         <img src="assets/img/gallery/gallery-7.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-7.jpg" title="Gallery 7" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-7.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-7.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                         <img src="assets/img/gallery/gallery-8.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-8.jpg" title="Gallery 8" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-8.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-8.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -160,7 +160,7 @@
                         <img src="assets/img/gallery/gallery-9.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-9.jpg" title="Gallery 9" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-9.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-9.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                         <img src="assets/img/gallery/gallery-10.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-10.jpg" title="Gallery 10" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-10.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-10.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -180,7 +180,7 @@
                         <img src="assets/img/gallery/gallery-11.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-11.jpg" title="Gallery 11" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-11.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-11.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -190,7 +190,7 @@
                         <img src="assets/img/gallery/gallery-12.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-12.jpg" title="Gallery 12" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-12.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-12.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -200,7 +200,7 @@
                         <img src="assets/img/gallery/gallery-13.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-13.jpg" title="Gallery 13" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-13.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-13.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -210,7 +210,7 @@
                         <img src="assets/img/gallery/gallery-14.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-14.jpg" title="Gallery 14" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-14.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-14.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -220,7 +220,7 @@
                         <img src="assets/img/gallery/gallery-15.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-15.jpg" title="Gallery 15" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-15.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-15.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
@@ -230,20 +230,41 @@
                         <img src="assets/img/gallery/gallery-16.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
                             <a href="assets/img/gallery/gallery-16.jpg" title="Gallery 16" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-16.jpg">Download HERE!</a>
+                            <a href="download.php?file=assets/img/gallery/gallery-16.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="gallery-item h-100">
-                        <img src="assets/img/gallery/gallery-16.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/gallery/gallery-17.jpg" class="img-fluid" alt="">
                         <div class="gallery-links d-flex align-items-center justify-content-center">
-                            <a href="assets/img/gallery/gallery-16.jpg" title="Gallery 16" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                            <a href="download.php?file=assets/img/gallery/gallery-16.jpg">Download HERE!</a>
+                            <a href="assets/img/gallery/gallery-17.jpg" title="Gallery 17" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
+                            <a href="download.php?file=assets/img/gallery/gallery-17.jpg" class="preview-link"><i class="bi bi-download"></i></a>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="gallery-item h-100">
+                        <img src="assets/img/gallery/gallery-18.jpg" class="img-fluid" alt="">
+                        <div class="gallery-links d-flex align-items-center justify-content-center">
+                            <a href="assets/img/gallery/gallery-18.jpg" title="Gallery 18" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
+                            <a href="download.php?file=assets/img/gallery/gallery-18.jpg" class="preview-link"><i class="bi bi-download"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="gallery-item h-100">
+                        <img src="assets/img/gallery/gallery-22.jpg" class="img-fluid" alt="">
+                        <div class="gallery-links d-flex align-items-center justify-content-center">
+                            <a href="assets/img/gallery/gallery-22.jpg" title="Gallery 22" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
+                            <a href="download.php?file=assets/img/gallery/gallery-22.jpg" class="preview-link"><i class="bi bi-download"></i></a>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
